@@ -23,6 +23,7 @@ if not at home to physically check.
 - 
 ### What I'll Have to Learn
 I will have to learn how to add a way to keep track of the date when a grocery list is generated for use
-when shopping and save that for view later. It is different than simply accessing the grocery list. 
+when shopping and save that for view later. It is different than simply accessing the grocery list. Becaise I want
+this to be used while actively shopping, I will need to make it mobile device friendly. 
 ### Project Tracker
 https://trello.com/b/5IG5X7RB/liftoff-project
