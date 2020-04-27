@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-https://github.com/
+https://github.com/aokuonghae/
  
 ### LinkedIn
 https://www.linkedin.com/in/anastasia-okuonghae/
